@@ -46,6 +46,6 @@ This project is licensed under the MIT License. See LICENSE for details.
 📞 Contact
 
 📧 Email: gatladevavardhan@gmail.com
-🌍 GitHub: Your GitHub Profile
+🌍 GitHub: [Your GitHub Profile](https://github.com/Devavardhan06)
 
 💡 Weather Forecast – Your Real-Time Weather Companion! 🌤️ 🚀
